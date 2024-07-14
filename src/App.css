@@ -1,0 +1,22 @@
+/* Add this CSS in your stylesheet */
+.root{
+    background-color: gray;
+}
+.product-section {
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  .product-container {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .product {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    background-size: cover;
+    background-position: center;
+  }
+  
